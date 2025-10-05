@@ -1,4 +1,5 @@
-[
+{
+  "playlists": [
     {
       "type": "playlist-video",
       "title": "διάλεξε κασέτα",
@@ -10,7 +11,7 @@
       "type": "playlist-mixed-1",
       "title": "ενα",
       "description": "μία δοκιμή",
-      "thumb": "",
+      "thumb": "media/playlist_selector/playlist_mixed.jpg",
       "items": [
         {
           "type": "audio",
@@ -30,7 +31,7 @@
     },
     {
       "type": "playlist-mixed-2",
-      "title": "dyo",
+      "title": "ενα",
       "description": "μία δοκιμή",
       "thumb": "media/playlist_selector/playlist_mixed.jpg",
       "items": [
@@ -44,4 +45,4 @@
       ]
     }
   ]
-
+}
