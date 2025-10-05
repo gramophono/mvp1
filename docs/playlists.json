@@ -1,0 +1,48 @@
+{
+  "playlists": [
+    {
+      "type": "playlist-video",
+      "title": "διάλεξε κασέτα",
+      "description": "",
+      "thumb": "",
+      "items": []
+    },
+    {
+      "type": "playlist-mixed-1",
+      "title": "ενα",
+      "description": "μία δοκιμή",
+      "thumb": "media/playlist_selector/playlist_mixed.jpg",
+      "items": [
+        {
+          "type": "audio",
+          "path": "https://raw.githubusercontent.com/gramophono/my-music/main/%CE%9C%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82.m4a",
+          "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG",
+          "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG",
+          "title": "Μυροβολιστής"
+        },
+        {
+          "type": "audio",
+          "path": "https://raw.githubusercontent.com/gramophono/my-music/main/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%20%CE%9A%CE%BF%CE%BD%CF%84%CE%BF%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82%20-%20%CE%98%CE%B5%CE%AD%20%CE%BC%CE%BF%CF%85%20%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%BF%CE%B4%CF%8D%CE%BD%CE%B1%CE%BC%CE%B5.mp3",
+          "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%20%CE%9A%CE%BF%CE%BD%CF%84%CE%BF%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82.JPG",
+          "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82%20%CE%9A%CE%BF%CE%BD%CF%84%CE%BF%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82.JPG",
+          "title": "Δημήτρης Κοντογιάννης - Θεέ μου μεγαλοδύναμε"
+        }
+      ]
+    },
+    {
+      "type": "playlist-mixed-2",
+      "title": "ενα",
+      "description": "μία δοκιμή",
+      "thumb": "media/playlist_selector/playlist_mixed.jpg",
+      "items": [
+        {
+          "type": "audio",
+          "path": "https://raw.githubusercontent.com/gramophono/my-music/main/Magic%20De%20Spell%20-%20%CE%95%CE%BC%CE%AD%CE%BD%CE%B1%20%CE%BF%CE%B9%20%CF%86%CE%AF%CE%BB%CE%BF%CE%B9%20%CE%BC%CE%BF%CF%85.mp3",
+          "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Magic%20De%20Spell.JPG",
+          "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Magic%20De%20Spell.JPG",
+          "title": "Magic De Spell - Εμένα οι φίλοι μου"
+        }
+      ]
+    }
+  ]
+}
