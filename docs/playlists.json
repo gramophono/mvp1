@@ -1,4 +1,4 @@
-/ playlists.js
+// playlists.js
 export const playlistsData = {
   "playlists": [
  {
@@ -47,4 +47,5 @@ export const playlistsData = {
     }
   ]
 };
+
 
