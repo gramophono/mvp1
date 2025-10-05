@@ -1,6 +1,7 @@
-{
+/ playlists.js
+export const playlistsData = {
   "playlists": [
-    {
+ {
       "type": "playlist-video",
       "title": "διάλεξε κασέτα",
       "description": "",
@@ -45,4 +46,5 @@
       ]
     }
   ]
-}
+};
+
