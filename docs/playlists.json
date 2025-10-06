@@ -1,5 +1,4 @@
-// playlists.js
-export const playlistsData = {
+
   "playlists": [
  {
       "type": "playlist-video",
@@ -46,7 +45,8 @@ export const playlistsData = {
       ]
     }
   ]
-};
+
+
 
 
 
