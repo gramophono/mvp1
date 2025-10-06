@@ -1,6 +1,6 @@
-
+{
   "playlists": [
- {
+    {
       "type": "playlist-video",
       "title": "διάλεξε κασέτα",
       "description": "",
@@ -45,6 +45,8 @@
       ]
     }
   ]
+}
+
 
 
 
