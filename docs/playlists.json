@@ -7,10 +7,10 @@
       "thumb": "",
       "items": [
         {
-      "type": "audio",
-      "path": "https://raw.githubusercontent.com/gramophono/my-music/main/sample.mp3",
-      "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/sample.jpg",
-      "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/sample.jpg",
+      "type": "video",
+      "path": "https://github.com/gramophono/my-music/blob/02a82fa86d649157861a3c8a5226a3a857b3090a/Mary%20%26%20The%20Boy-%20Bobby%20Peru.mp4",
+      "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/16%20Horsepower.JPG",
+      "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/16%20Horsepower.JPG",
       "title": "Δείγμα"
     }
       ]
@@ -54,6 +54,7 @@
     }
   ]
  }
+
 
 
 
