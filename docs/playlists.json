@@ -5,7 +5,13 @@
       "title": "διάλεξε κασέτα",
       "description": "",
       "thumb": "",
-      "items": []
+      "items": [{
+          "type": "video",
+          "path": "",
+          "poster": "",
+          "thumb": "",
+          "title": ""
+        }]
     },
     {
       "type": "playlist-mixed-1",
@@ -46,6 +52,7 @@
     }
   ]
  }
+
 
 
 
