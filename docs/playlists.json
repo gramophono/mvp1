@@ -5,13 +5,15 @@
       "title": "διάλεξε κασέτα",
       "description": "",
       "thumb": "",
-      "items": [{
-          "type": "video",
-          "path": "",
-          "poster": "",
-          "thumb": "",
-          "title": ""
-        }]
+      "items": [
+        {
+      "type": "audio",
+      "path": "https://raw.githubusercontent.com/gramophono/my-music/main/sample.mp3",
+      "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/sample.jpg",
+      "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/sample.jpg",
+      "title": "Δείγμα"
+    }
+      ]
     },
     {
       "type": "playlist-mixed-1",
@@ -52,6 +54,7 @@
     }
   ]
  }
+
 
 
 
