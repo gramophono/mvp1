@@ -40,8 +40,9 @@
 
 .mvp-logo{
 	position: absolute;
-	top:20px;
+	bottom:50px;
 	left:20px;
+    opacity: 0.6;
 }
 
 .mvp-video-title{
