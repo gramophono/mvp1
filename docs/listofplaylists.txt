@@ -3,7 +3,7 @@
   </div>
 
 <div class="playlist-json-1" data-title="Poesia musicata" data-description="όταν η ποίηση τα βρίσκει με τη μουσική" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/poesia%20musicata.jpg">
-                <div class="mvp-playlist-item" data-type="json" data-path="https://raw.githubusercontent.com/gramophono/mvp1/1755993ad92fc176bc35a953ab6f8e729e1953eb/docs/poesia%20musicata.txt"></div>
+                <div class="mvp-playlist-item" data-type="json" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/poesia%20musicata.txt"></div>
             </div>	
 
 
@@ -95,4 +95,5 @@
 
 
    
+
 
