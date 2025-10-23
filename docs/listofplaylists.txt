@@ -2,6 +2,12 @@
   <div class="mvp-playlist-item" data-type="image" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-duration="10" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-title="kati nyxtes magikes"></div>
   </div>
 
+<div class="playlist-json-1" data-title="Poesia musicata" data-description="όταν η ποίηση τα βρίσκει με τη μουσική" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/poesia%20musicata.jpg">
+                <div class="mvp-playlist-item" data-type="json" data-path="https://raw.githubusercontent.com/gramophono/mvp1/1755993ad92fc176bc35a953ab6f8e729e1953eb/docs/poesia musicata.txt"></div>
+            </div>	
+
+
+
  <div class="playlist-mixed-1" data-title="με τη σερμαγιά της αύρας" data-description="με κλικάρισμα στον τίτλο της κασέτας βλέπεις το περιεχόμενο" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/me%20th%20sermagia%20ths%20ayras.jpg">
           
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/%CE%9C%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82.m4a" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG" data-title="Μυροβολιστής"></div>
@@ -83,6 +89,7 @@
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/Θανάσης Παπακωνσταντίνου - Απόψε.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Παπακωνσταντίνου Θανάσης.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Παπακωνσταντίνου Θανάσης.JPG" data-title="Θανάσης Παπακωνσταντίνου - Απόψε"></div>
   
 </div>
+
 
 
 
