@@ -2,9 +2,13 @@
   <div class="mvp-playlist-item" data-type="image" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-duration="10" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-title="kati nyxtes magikes"></div>
   </div>
 
+<div class="playlist-json-2" data-title="Fado-Συλλογή" data-description="η λαϊκή μουσική της Πορτογαλίας" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/fado%20syllogi.jpg">
+  <div class="mvp-playlist-item" data-type="json" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/json/fado-syllogh.txt"></div>
+</div>
+
 <div class="playlist-json-1" data-title="Poesia musicata" data-description="όταν η ποίηση τα βρίσκει με τη μουσική" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/poesia%20musicata.jpg">
-                <div class="mvp-playlist-item" data-type="json" data-path="https://gramophono.github.io/mvp1/json/poesia%20musicata.txt"></div>
-            </div>	
+  <div class="mvp-playlist-item" data-type="json" data-path="https://gramophono.github.io/mvp1/json/poesia%20musicata.txt"></div>
+</div>	
 
 
 
@@ -95,6 +99,7 @@
 
 
    
+
 
 
 
