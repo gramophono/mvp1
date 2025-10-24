@@ -1,0 +1,289 @@
+[
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/%CE%9C%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82.m4a",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%BC%CF%85%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CF%83%CF%84%CE%AE%CF%82%20%CF%83%CE%AE%CE%BC%CE%B1.JPG",
+    "title": "Μυροβολιστής"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Rosa%20Negra%20-%20Fado%20Ladino.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Rosa%20Negra.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Rosa%20Negra.JPG",
+    "title": "Rosa Negra - Fado Ladino"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ana%20Moura%20-%20porque%20teimas%20nesta%20dor.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "title": "Ana Moura - porque teimas nesta dor"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Alfredo%20Marceneiro%20-%20A%20Camponesa%20E%20O%20Pescador.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "title": "Alfredo Marceneiro - A Camponesa E O Pescador"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Cristina%20Branco%20-%20Tu%20Tens%20de%20Me%20Acontecer.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Cristina%20Branco.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Cristina%20Branco.JPG",
+    "title": "Cristina Branco - Tu Tens de Me Acontecer"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ana%20Sofia%20Varela%20-%20Fado%20Vadio.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Sofia%20Varela.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Sofia%20Varela.JPG",
+    "title": "Ana Sofia Varela - Fado Vadio"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Deolinda%20-%20O%20Fado%20Nao%20e%20Mau.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Deolinda.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Deolinda.JPG",
+    "title": "Deolinda - O Fado Nao e Mau"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Eric%20Harper%20-%20Nas%20Tuas%20m%C3%A3os.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Eric%20Harper.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Eric%20Harper.JPG",
+    "title": "Eric Harper - Nas Tuas mãos"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Fernando%20Machado%20Soares%20-%20Maria%20faia.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Machado%20Soares.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Machado%20Soares.JPG",
+    "title": "Fernando Machado Soares - Maria faia"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Katia%20Guerreiro%20-%20Menina%20Do%20Alto%20Da%20Serra.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "title": "Katia Guerreiro - Menina Do Alto Da Serra"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ana%20Moura%20-%20a%20penumbra.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "title": "Ana Moura - a penumbra"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Alfredo%20Marceneiro%20-%20Nos%20Tempos%20Em%20Que%20Eu%20Cantava.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "title": "Alfredo Marceneiro - Nos Tempos Em Que Eu Cantava"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Am%C3%A1lia%20Rodrigues%20-%20Liberta%C3%A7%C3%A3o.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "title": "Amália Rodrigues - Libertação"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Mariza%20-%20Beijo%20De%20Saudade.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Mariza.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Mariza.JPG",
+    "title": "Mariza - Beijo De Saudade"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Misia%20-%20Fado%20De%20Retorno%20II.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Misia.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Misia.JPG",
+    "title": "Misia - Fado De Retorno II"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/O_%20QueStrada%20-%20Agarrem-me.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/O_%20Questrada.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/O_%20Questrada.JPG",
+    "title": "O_ QueStrada - Agarrem-me"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ramana%20Vieira%20-%20Povo%20Que%20Lavas%20No%20Rio.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ramana%20Vieira.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ramana%20Vieira.JPG",
+    "title": "Ramana Vieira - Povo Que Lavas No Rio"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/Trio%20Fado%20-%20Disse-te%20adeus.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Trio%20Fado.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Trio%20Fado.JPG",
+    "title": "Trio Fado - Disse-te adeus"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Katia%20Guerreiro%20-%20Dulce%20Caravela.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "title": "Katia Guerreiro - Dulce Caravela"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ricardo%20Ribeiro%20-%20Fama%20De%20Alfama.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ricardo%20Ribeiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ricardo%20Ribeiro.JPG",
+    "title": "Ricardo Ribeiro - Fama De Alfama"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Maria%20Teresa%20De%20Noronha%20-%20Pombalinho.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Maria%20Teresa%20De%20Noronha.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Maria%20Teresa%20De%20Noronha.JPG",
+    "title": "Maria Teresa De Noronha - Pombalinho"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Lucilia%20Do%20Carmo%20-%20Loucura.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Lucilia%20Do%20Carmo.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Lucilia%20Do%20Carmo.JPG",
+    "title": "Lucilia Do Carmo - Loucura"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Fernando%20Machado%20Soares%20-%20Cancao%20das%20lagrimas.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Machado%20Soares.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Machado%20Soares.JPG",
+    "title": "Fernando Machado Soares - Cancao das lagrimas"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/Tristao%20Da%20Silva%20-%20Da%20Janela%20Do%20Meu%20Quarto.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Tristao%20Da%20Silva.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Tristao%20Da%20Silva.JPG",
+    "title": "Tristao Da Silva - Da Janela Do Meu Quarto"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Misia%20-%20Nao%20Me%20Chamen%20Pelo%20Nome.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Misia.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Misia.JPG",
+    "title": "Misia - Nao Me Chamen Pelo Nome"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Fernando%20Mauricio%20-%20Igreja%20De%20Santo%20Estevao.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Mauricio.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Fernando%20Mauricio.JPG",
+    "title": "Fernando Mauricio - Igreja De Santo Estevao"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Eric%20Harper%20-%20Fechar%20de%20olhos.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Eric%20Harper.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Eric%20Harper.JPG",
+    "title": "Eric Harper - Fechar de olhos"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Katia%20Guerreiro%20-%20Vaga.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Katia%20Guerreiro.JPG",
+    "title": "Katia Guerreiro - Vaga"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Armandinho%20-%20Fado%20Estoril%20(Instrumental).mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Armandinho.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Armandinho.JPG",
+    "title": "Armandinho - Fado Estoril (Instrumental)"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Carminho%20-%20A%20Voz.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "title": "Carminho - A Voz"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Mariza%20-%20Minh%20Alma.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Mariza.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Mariza.JPG",
+    "title": "Mariza - Minh Alma"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Am%C3%A1lia%20Rodrigues%20-%20Bailen%20Bailen.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "title": "Amália Rodrigues - Bailen Bailen"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Cristina%20Branco%20-%20Que%20Fazes%20a%C3%AD%20Lisboa.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Cristina%20Branco.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Cristina%20Branco.JPG",
+    "title": "Cristina Branco - Que Fazes aí Lisboa"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/Trio%20Fado%20-%20Asa%20negra.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Trio%20Fado.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Trio%20Fado.JPG",
+    "title": "Trio Fado - Asa negra"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Carminho%20-%20Uma%20Vida%20Noutra%20Vida.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "title": "Carminho - Uma Vida Noutra Vida"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/O_%20Questrada%20-%20Qualquer%20coisa%20me%20anima.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/O_%20Questrada.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/O_%20Questrada.JPG",
+    "title": "O_ QueStrada - Qualquer coisa me anima"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ana%20Sofia%20Varela%20-%20As%20Luvas%20De%20Minha%20M%C3%A3e.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Sofia%20Varela.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Sofia%20Varela.JPG",
+    "title": "Ana Sofia Varela - As Luvas De Minha Mãe"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Ana%20Moura%20-%20caso%20arrumado.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Ana%20Moura.JPG",
+    "title": "Ana Moura - caso arrumado"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Am%C3%A1lia%20Rodrigues%20-%20Fado%20Menor.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Amalia%20Rodrigues.JPG",
+    "title": "Amália Rodrigues - Fado Menor"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Alfredo%20Marceneiro%20%20-%20Amor%20De%20Mae.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Alfredo%20Marceneiro.JPG",
+    "title": "Alfredo Marceneiro - Amor De Mae"
+  },
+  {
+    "type": "audio",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Carminho%20-%20Disse%20Te%20Adeus.mp3",
+    "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Carminho.JPG",
+    "title": "Carminho - Disse Te Adeus"
+  }
+]
