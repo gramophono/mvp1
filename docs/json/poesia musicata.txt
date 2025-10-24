@@ -43,17 +43,17 @@
   },
   {
     "type": "audio",
-    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/%CE%9F%CE%B9%20%CE%BE%CE%AD%CE%BC%CF%80%CE%B1%CF%81%CE%BA%CE%BF%CE%B9%20-%20William%20George%20Allum%20(%CF%80.%20%CE%9D%CE%AF%CE%BA%CE%BF%CF%82%20%CE%9A%CE%B1%CE%B2%CE%B2%CE%B1%CE%B4%CE%AF%CE%B1%CF%82).mp3",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/ef83d74deedf8bd152d42fbed607acfc6218dbec/Οι ξέμπαρκοι - William George Allum-π. Νίκος Καβαδίας.mp3",
     "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%9E%CE%AD%CE%BC%CF%80%CE%B1%CF%81%CE%BA%CE%BF%CE%B9.JPG",
     "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%9E%CE%AD%CE%BC%CF%80%CE%B1%CF%81%CE%BA%CE%BF%CE%B9.JPG",
     "title": "Οι ξέμπαρκοι - William George Allum (π. Νίκος Καββαδίας)"
   },
   {
     "type": "audio",
-    "path": "https://raw.githubusercontent.com/gramophono/my-music/main/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82%20%CE%A8%CE%B1%CF%81%CE%BF%CF%85%CE%B4%CE%AC%CE%BA%CE%B7%CF%82%20(%CE%9D%CE%AF%CE%BA%CE%BF%CF%82%20%CE%96%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1%CF%81%CE%B7%CF%82)%20-%20%CE%A4%CE%BF%20%CE%B3%CF%85%CE%BC%CE%BD%CF%8C%20%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%20(%CF%80.%20%CE%9A%CF%89%CF%83%CF%84%CE%AE%CF%82%20%CE%A0%CE%B1%CE%BB%CE%B1%CE%BC%CE%AC%CF%82).mp3",
+    "path": "https://raw.githubusercontent.com/gramophono/my-music/6c2fc4f9da87148f857f37cc1d9a360f3b3a011d/Σταύρος Ψαρουδάκης (Νίκος Ζούδιαρης) - Το γυμνό τραγούδι(π. Κ. Παλαμάς).mp3",
     "poster": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82%20%CE%A8%CE%B1%CF%81%CE%BF%CF%85%CE%B4%CE%AC%CE%BA%CE%B7%CF%82.JPG",
     "thumb": "https://raw.githubusercontent.com/gramophono/my-music/main/artimg/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82%20%CE%A8%CE%B1%CF%81%CE%BF%CF%85%CE%B4%CE%AC%CE%BA%CE%B7%CF%82.JPG",
-    "title": "Σταύρος Ψαρουδάκης (Νίκος Ζούδιαρης) - Το γυμνό τραγούδι (π. Κωστής Παλαμάς)"
+    "title": "Σταύρος Ψαρουδάκης (Νίκος Ζούδιαρης) - Το γυμνό τραγούδι (π. Κ. Παλαμάς)"
   },
   {
     "type": "audio",
@@ -210,3 +210,4 @@
     "title": "Βελισσαρίου Ρένα (Σαράντης Κασσάρας) - Χαλκίδα (π. Γιάννης Σκαρίμπας)"
   }
 ]
+
