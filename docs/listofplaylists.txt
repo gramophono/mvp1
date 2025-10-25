@@ -287,7 +287,7 @@
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Current93 - Moonlight Or Other Dreams Or Other Fields.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Current93.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Current93.JPG" data-title="Current93 - Moonlight Or Other Dreams Or Other Fields"></div>
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw/Beth Hart - Caught Out In The_Rain.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Beth Hart.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Beth Hart.JPG" data-title="Beth Hart - Caught Out In The_Rain"></div>
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw/America - Sandman.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/America.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/America.JPG" data-title="America - Sandman"></div>
-<div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/a4e5739ef4f00406efd83300b28fd96d791eaaad/Χαϊνηδες - Κι αν έσβησε σαν ίσκιος (π. Κώστας Καρυωτάκης).mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg1/%CE%A7%CE%B1%CF%8A%CE%BD%CE%B7%CE%B4%CE%B5%CF%82.JPG" 
+<div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/Χαϊνηδες - Κι αν έσβησε σαν ίσκιος (π. Κώστας Καρυωτάκης).mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg1/%CE%A7%CE%B1%CF%8A%CE%BD%CE%B7%CE%B4%CE%B5%CF%82.JPG" 
             data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg1/%CE%A7%CE%B1%CF%8A%CE%BD%CE%B7%CE%B4%CE%B5%CF%82.JPG" data-title="Χαϊνηδες - Κι αν έσβησε σαν ίσκιος (π. Κώστας Καρυωτάκης)"></div>
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/Ωχρά Σπειροχαίτη - Οι στίχοι.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg1/Ωχρά Σπειροχαίτη.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg1/Ωχρά Σπειροχαίτη.JPG" data-title="Ωχρά Σπειροχαίτη - Οι στίχοι"></div>
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/Γιάννης Αγγελάκας - Είδα έναν άντρα να πέφτει.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Γιάννης  Αγγελάκας .JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Γιάννης  Αγγελάκας .JPG" data-title="Γιάννης Αγγελάκας - Είδα έναν άντρα να πέφτει"></div>
@@ -301,6 +301,7 @@
 
 
    
+
 
 
 
