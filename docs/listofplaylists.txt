@@ -1,5 +1,5 @@
-<div class="playlist-mixed-0" data-title="διάλεξε κασέτα" data-description="με κλικάρισμα στον τίτλο της κασέτας βλέπεις το περιεχόμενο" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png">
-  <div class="mvp-playlist-item" data-type="image" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-duration="10" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-title="kati nyxtes magikes"></div>
+<div class="playlist-mixed-0" data-title="διάλεξε κασέτα πατώντας εδώ" data-description="με κλικάρισμα στον τίτλο της κασέτας βλέπεις το περιεχόμενο" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png">
+  <div class="mvp-playlist-item" data-type="image" data-path="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-duration="10" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/tou%20grammophonou%20tragoudia.png" data-title="πάτησε το διάλεξε κασέτα να σου εμφανίσει όλες τις κασέτες"></div>
   </div>
 
 
@@ -271,6 +271,7 @@
 
 
    
+
 
 
 
