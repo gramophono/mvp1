@@ -3,6 +3,11 @@
   </div>
 
 
+<div class="playlist-youtube-2" data-title="take it easy" data-description="με ξένα τραγούδια" data-thumb="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVbvpW9aYcWotORmfujAYWDauFCDqp3YYfbqD3lJBA2fHSiwJT_og4vVJV9GDwQO5F_ryMRzxGe_boDtar9rm6t3NM3E46PEfshsvRmq3w_YDVVTQymay6UTNkaUvk-PkHc_Cqm4Xjmoc/s320/take+it+easy.JPG">
+<div class="mvp-playlist-item" data-type="youtube_playlist" data-path="PL00rmG2oN8Ag39lNSouPmS1tX8gPovv1l" data-limit="100"></div>
+</div>
+
+
 <div class="playlist-mixed-6" data-title="Η νύχτα φεγγαρόφωτη" data-description="με κλικάρισμα στον τίτλο της κασέτας βλέπεις το περιεχόμενο" data-thumb="https://raw.githubusercontent.com/gramophono/mvp1/main/docs/anartiseis/h%20nyxta%20feggarofoti.jpg">
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/Μυροβολιστής.m4a" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/μυροβολιστής σήμα.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/μυροβολιστής σήμα.JPG" data-title="Μυροβολιστής"></div>
 <div class="mvp-playlist-item" data-type="audio" data-path="https://raw.githubusercontent.com/gramophono/my-music/main/musicw1/The Tiger Lillies - Heroin & Cocaine.mp3" data-poster="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Tiger Lillies.JPG" data-thumb="https://raw.githubusercontent.com/gramophono/my-music/main/artimg/Tiger Lillies.JPG" data-title="The Tiger Lillies - Heroin & Cocaine"></div>
